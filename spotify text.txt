@@ -1,0 +1,33 @@
+project spotify
+
+1. pull the data of top 10 artists in india and in world and there top 10 songs. 
+2. most liked and most played song in india for the day or month or the year. 
+3. most liked and most played song in world for the day or month or the year.
+4. load this data into mongodb through jenkins pipeline, which pulls the data from git.
+5. develop tableau and pull this data records in tableau.
+
+---------
+spotify lcient id : 
+
+
+f4f8554077e84dc8a5fd740ea419bff8
+
+--
+
+secret 
+afe443f1d33e46d6bbad9a7a319b4397
+
+
+curl -X POST "https://accounts.spotify.com/api/token" \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=client_credentials&client_id=f4f8554077e84dc8a5fd740ea419bff8&client_secret=afe443f1d33e46d6bbad9a7a319b4397"
+
+{"access_token":"BQAdmkmnMMjjC7Lr4kwPCAHgN-iUMODVSENiIUYMYaL4Enu_d_52edWp4JlULa3sYZ9VZGEt8Ybth0Ckz7vy924-d_LgV7fvb-g5OrlNXPLAfy5OiTM","token_type":"Bearer","expires_in":3600}
+
+spotify:playlist:7qxn6GsFH77ghVtKzOnAYA
+
+
+curl --request GET \
+  --url https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG/top-tracks \
+  --header 'Authorization: Bearer BQAdmkmnMMjjC7Lr4kwPCAHgN-iUMODVSENiIUYMYaL4Enu_d_52edWp4JlULa3sYZ9VZGEt8Ybth0Ckz7vy924-d_LgV7fvb-g5OrlNXPLAfy5OiTM'
+  

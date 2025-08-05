@@ -1,0 +1,854 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0yF51NuQnWH3goQTOUHAJb"
+        },
+        "href": "https://api.spotify.com/v1/albums/0yF51NuQnWH3goQTOUHAJb",
+        "id": "0yF51NuQnWH3goQTOUHAJb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b0c5f5f182ce6239151f31e8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b0c5f5f182ce6239151f31e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b0c5f5f182ce6239151f31e8",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Medicine",
+        "release_date": "2018-06-08",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0yF51NuQnWH3goQTOUHAJb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219135,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USCGH1849413"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lFfMRH0YH4pW5gczTDbNC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lFfMRH0YH4pW5gczTDbNC",
+      "id": "4lFfMRH0YH4pW5gczTDbNC",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Medicine",
+      "popularity": 68,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4lFfMRH0YH4pW5gczTDbNC"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2fyaGl2f9n6oNUVhf7XJhM",
+        "id": "2fyaGl2f9n6oNUVhf7XJhM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732ef5e40b97479a14032f882d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022ef5e40b97479a14032f882d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512ef5e40b97479a14032f882d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "After the Butterflies",
+        "release_date": "2023-11-17",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2fyaGl2f9n6oNUVhf7XJhM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HkdQ0gt53LP4zmHsL0nap",
+          "id": "7HkdQ0gt53LP4zmHsL0nap",
+          "name": "Ella Mai",
+          "type": "artist",
+          "uri": "spotify:artist:7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190498,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG12205901"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1kCHMAf5TOU97HhuRHNyi1",
+      "id": "1kCHMAf5TOU97HhuRHNyi1",
+      "is_local": false,
+      "is_playable": true,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "popularity": 53,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1kCHMAf5TOU97HhuRHNyi1"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6NjMLOTy7deZD4WfpVt3RL"
+        },
+        "href": "https://api.spotify.com/v1/albums/6NjMLOTy7deZD4WfpVt3RL",
+        "id": "6NjMLOTy7deZD4WfpVt3RL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c81460f642e658a1c654a12",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020c81460f642e658a1c654a12",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510c81460f642e658a1c654a12",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Queen Naija",
+        "release_date": "2018-07-27",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:6NjMLOTy7deZD4WfpVt3RL"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212174,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG11801178"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4A58lXGBRCg2cumRXTRxHO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4A58lXGBRCg2cumRXTRxHO",
+      "id": "4A58lXGBRCg2cumRXTRxHO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Butterflies",
+      "popularity": 61,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4A58lXGBRCg2cumRXTRxHO"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L"
+        },
+        "href": "https://api.spotify.com/v1/albums/13AioFwH1nNynbyO8AZW6L",
+        "id": "13AioFwH1nNynbyO8AZW6L",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730283dabb7aae9e666faa9d45",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020283dabb7aae9e666faa9d45",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510283dabb7aae9e666faa9d45",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Karma",
+        "release_date": "2018-06-29",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:13AioFwH1nNynbyO8AZW6L"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176075,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG11801176"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3qmm9AdG0TnShv0drgXNIQ",
+      "id": "3qmm9AdG0TnShv0drgXNIQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Karma",
+      "popularity": 60,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3qmm9AdG0TnShv0drgXNIQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+            },
+            "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+            "id": "14CHVeJGrR5xgUGQFV5BVM",
+            "name": "Fivio Foreign",
+            "type": "artist",
+            "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+        },
+        "href": "https://api.spotify.com/v1/albums/6np2Ix6RidhSseqw2dZovP",
+        "id": "6np2Ix6RidhSseqw2dZovP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a46f8ecd34df3d45845a6c71",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a46f8ecd34df3d45845a6c71",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a46f8ecd34df3d45845a6c71",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "B.I.B.L.E.",
+        "release_date": "2022-04-08",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          },
+          "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+          "id": "14CHVeJGrR5xgUGQFV5BVM",
+          "name": "Fivio Foreign",
+          "type": "artist",
+          "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AMd49uBDJfhf30Ak2QR5s",
+          "id": "6AMd49uBDJfhf30Ak2QR5s",
+          "name": "Coi Leray",
+          "type": "artist",
+          "uri": "spotify:artist:6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201398,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSM12203043"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5m4TMhR7wQQGxelJa7lToQ",
+      "id": "5m4TMhR7wQQGxelJa7lToQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/7c51688acbfaf25269a179d227de118f3356b8fa?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
+        },
+        "href": "https://api.spotify.com/v1/albums/4vIKuMcGxldTXjswEuNs7u",
+        "id": "4vIKuMcGxldTXjswEuNs7u",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27369a7329efc0f924b4814e822",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0269a7329efc0f924b4814e822",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485169a7329efc0f924b4814e822",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "missunderstood",
+        "release_date": "2020-10-30",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:4vIKuMcGxldTXjswEuNs7u"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 150345,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG12000920"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4szVI06jpipuhMLi1oCXdE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4szVI06jpipuhMLi1oCXdE",
+      "id": "4szVI06jpipuhMLi1oCXdE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Butterflies Pt. 2",
+      "popularity": 59,
+      "preview_url": null,
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:4szVI06jpipuhMLi1oCXdE"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+            "id": "7wlFDEWiM5OoIAt8RSli8b",
+            "name": "YoungBoy Never Broke Again",
+            "type": "artist",
+            "uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4SMXvOfWccTE6aLEDMzoJA",
+        "id": "4SMXvOfWccTE6aLEDMzoJA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b4c19778b2a442a738662b8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020b4c19778b2a442a738662b8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510b4c19778b2a442a738662b8",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "release_date": "2023-09-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4SMXvOfWccTE6aLEDMzoJA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+          "id": "7wlFDEWiM5OoIAt8RSli8b",
+          "name": "YoungBoy Never Broke Again",
+          "type": "artist",
+          "uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 148996,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12205908"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/58WSKtcvVt208XY8tolYQI",
+      "id": "58WSKtcvVt208XY8tolYQI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "popularity": 59,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:58WSKtcvVt208XY8tolYQI"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
+        },
+        "href": "https://api.spotify.com/v1/albums/2fyaGl2f9n6oNUVhf7XJhM",
+        "id": "2fyaGl2f9n6oNUVhf7XJhM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732ef5e40b97479a14032f882d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022ef5e40b97479a14032f882d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512ef5e40b97479a14032f882d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "After the Butterflies",
+        "release_date": "2023-11-17",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2fyaGl2f9n6oNUVhf7XJhM"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6qWpPgfKJehZmeJMIeicqW",
+          "id": "6qWpPgfKJehZmeJMIeicqW",
+          "name": "Monica",
+          "type": "artist",
+          "uri": "spotify:artist:6qWpPgfKJehZmeJMIeicqW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155355,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG12205906"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3lhxQlRAWTK77L51pNAJCk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3lhxQlRAWTK77L51pNAJCk",
+      "id": "3lhxQlRAWTK77L51pNAJCk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "One of them Days (feat. Monica)",
+      "popularity": 42,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:3lhxQlRAWTK77L51pNAJCk"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+            },
+            "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+            "id": "0c173mlxpT3dSFRgMO8XPh",
+            "name": "Big Sean",
+            "type": "artist",
+            "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+        },
+        "href": "https://api.spotify.com/v1/albums/5m7KrrURY0STYZGqmsupn7",
+        "id": "5m7KrrURY0STYZGqmsupn7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731ce5a29617c5026b2c1459f8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021ce5a29617c5026b2c1459f8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511ce5a29617c5026b2c1459f8",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Hate Our Love (with Big Sean)",
+        "release_date": "2022-02-04",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5m7KrrURY0STYZGqmsupn7"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist",
+          "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226373,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12200101"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3pEINn37iH5fx8TpXYNGIO",
+      "id": "3pEINn37iH5fx8TpXYNGIO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hate Our Love (with Big Sean)",
+      "popularity": 58,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3pEINn37iH5fx8TpXYNGIO"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+            "id": "3nViOFa3kZW8OMSNOzwr98",
+            "name": "Queen Naija",
+            "type": "artist",
+            "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+        },
+        "href": "https://api.spotify.com/v1/albums/4A6aWWPzVnNEjqm29C93A7",
+        "id": "4A6aWWPzVnNEjqm29C93A7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d84f7d78d9f18712e9ecef79",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d84f7d78d9f18712e9ecef79",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d84f7d78d9f18712e9ecef79",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Words of Affirmation",
+        "release_date": "2023-05-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          },
+          "href": "https://api.spotify.com/v1/artists/3nViOFa3kZW8OMSNOzwr98",
+          "id": "3nViOFa3kZW8OMSNOzwr98",
+          "name": "Queen Naija",
+          "type": "artist",
+          "uri": "spotify:artist:3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186095,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUG12205905"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4TeklWa1VJeKwDThRho8vy",
+      "id": "4TeklWa1VJeKwDThRho8vy",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Words of Affirmation",
+      "popularity": 51,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4TeklWa1VJeKwDThRho8vy"
+    }
+  ]
+}
