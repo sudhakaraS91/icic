@@ -1,0 +1,29 @@
+Ë
+    æ5©e·  ã                   ó(   — d dl Z d dlZd„ Z e«        y)é    Nc                  ó  — d} d}d}d}|||dœ}dd i}t        d«       t        d	«       t        j                  | ||¬
+«      }t        d
+«       |j                  dk(  r{t        d
+|j                  «       |j	                  «       j
+                  d«      } t        d«       d}t
+        |d«      5 }	t	        j                  | |	d¬«       t        d«       d d d «       y t        d|j                  |j                  «       y # 1 sw Y   y xY w)Nz&https://accounts.spotify.com/api/tokenÚ f4f8554077e84dc8a5fd740ea419bff8Ú afe443f1d33e46d6bbad9a7a319b4397Úclient_credentials)Ú
+grant_typeÚ	client_idÚ
+client_secretzContent-Typez!application/x-www-form-urlencodedz(Recived client request to generate tokenz)starting request to generate client token)ÚdataÚ headerszcompleted client requestéÈ   z
+status sucessÚaccess_tokenzaccess token is generatedzaccess_token.jsonÚwé   )Úindentz$completed handling saved the requestzError:)	ÚprintÚrequestsÚpostÚ
+status_codeÚjsonÚgetÚopenÚdumpÚtext)
+Úurlr   r	   r    r
+   r
+   Úresponser
+   ÚfilepathÚ	json_files
+             úZc:\Users\Mohammed Ilham\Documents\DataAnalysis project\Project spotify\get_access_token.pyÚgenerate_tokenr      sÿ   € Ø
+2€Cà2€IØ6€MØ%€Jð !ØØ&ñ 
+€Dð Ð7ð€Gô 
+Ð
+4Ô5Ü	Ð
+5Ô6Ü}‰}˜S t°WÔ=€HÜ	Ð
+$Ô%Ø × Ñ ˜sÒ "Ü
+ˆo˜h×2Ñ2Ô3Ø—}‘}“×*Ñ*¨>Ó:ˆÜ
+Ð)Ô*Ø&ˆÜ
+(˜CÓ
+ ð 	: IÜI‰Il 9°QÕ7ÜÐ8Ô9÷	:ð 	:ô
+ 	ˆh˜×,Ñ,¨h¯m©mÕ<÷
+	:ð 	:ús   Â)$C8Ã8D )r   r   r   © ó    r   ú<module>r"      s   ðÛ Û 
+ò=ñ@ Õ r!   
